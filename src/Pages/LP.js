@@ -38,7 +38,9 @@ export default function LP(){
                                 ANTIOXIDANT(VITAMIN C), FLAVORING, COLORING</h3>
                         </div>
                     </div>
-                    <div id="box"></div>
+                    <div id="box">
+                        <img src="./img/bottle.png" alt="drink"/>
+                    </div>
                     <div>
                         <div>
                             <h2>An Elegant Matcha Experience from Kyoto.</h2>

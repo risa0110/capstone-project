@@ -163,6 +163,11 @@ header{
     border-radius: 10px;
     margin: 0 3rem;
 }
+#box img{
+    justify-content: center;
+    transform: rotate(-20deg);
+    width: 15rem;
+}
 #product-info{
     margin: 3rem 0 1rem;
     display: grid;
@@ -176,6 +181,7 @@ header{
     background-color: var(--btn-color);
     text-align: center;
     margin-bottom: 0;
+    animation: fadeIn 2s ease-out;
 }
 #about section:first-child{
     padding: 3rem 0 4rem;
@@ -263,6 +269,17 @@ footer img{
     #product{
         grid-template-columns: 1fr 1fr;
         gap: 5rem;
+    }
+}
+/*animation*/
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+        transform: translateY(10rem);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 /*tablet-size*/
