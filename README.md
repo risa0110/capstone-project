@@ -1,3 +1,22 @@
+# About This Project  
+## Ayataka-Cafe Match Latte Landing Page  
+A promotional lading page for Ayataka Cafe Matcha Latte, created as a tamwood international college capstone project.
+
+## Overview  
+This project is a fictional promotional website for Ayataka Cafe's Matcha Latte, a beverage that actually exists as a convenience store drink in Japan. 
+It shows a product and brand infomation through a 3D animation and responsive design.  
+  
+## Technologies Used
+- **HTML / CSS** -for layout and styling  
+- **React.js** - for component-based structure  
+- **Three.js** - for 3D model rendering and animation  
+- **Blender** - for modifying the free 3D model and the texture  
+- **GIMP** - for trimming the images
+
+## Features  
+- Responsive layout (desktop / tablet / mobile)  
+- Interactive 3D matcha drink using Three.js  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
